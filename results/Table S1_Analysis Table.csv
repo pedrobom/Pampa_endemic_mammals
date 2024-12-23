@@ -1,0 +1,284 @@
+Observations,"Scientific Names
+from MDD 1.2 and IUCN
+range maps",Scientific Names from MDD 1.13,Conservation Status,Source,"Endemism
+(*) = [considering Integrative limit]
+(**) = [invalid taxon]",% of MDD Range map in Integrative limit,% of MDD Range map in Consensual limit,% of IUCN Range map in Integrative limit,% of IUCN Range map in Consensual limit,% Bibliography Range in Integrative limit,% Bibliography Range in Consensual limit,% of Range Map consensus between MDD and IUCN,> 80% criteria of MDD range map in Integrative limit,> 80% criteria of MDD range map in Consensual limit,> 80% criteria of IUCN range map in Integrative limit,> 80% criteria of IUCN range map in Consensual limit,> 80% criteria of Bibliographic range map in Integrative limit,> 80% criteria of Bibliographic range map in Consensual limit,Occurrence Records,Occurrence inside Integrative limit,Occurrence inside Consensual limit,Occurrence inside MDD range map,Occurrence inside IUCN range map,Occurrence inside Bibliographic range map,> 80% criteria of occurrences in integrative limit,> 80% criteria of occurrences in consensual limit
+,Abrawayaomys chebezi,,DD,IUCN only,not endemic,NA,NA,3.63,0.03,NA,NA,NA,-,-,-,-,-,-,NA,NA,NA,NA,NA,NA,-,-
+,Abrawayaomys ruschii,,NA,MDD only,not endemic,0.08,0.05,NA,NA,NA,NA,NA,-,-,-,-,-,-,NA,NA,NA,NA,NA,NA,-,-
+"Potentially endemic considering IUCN range map, but MDD and occurrence records show a wider range",Akodon azarae,,LC,MDD and IUCN,potentially endemic,69.1,60.46,89.21,79.45,NA,NA,68.69,-,-,X,-,-,-,33,24,20,33,24,NA,-,-
+,Akodon dolores,,LC,MDD and IUCN,not endemic,25.92,17.21,23.54,14.59,NA,NA,NA,-,-,-,-,-,-,NA,NA,NA,NA,NA,NA,-,-
+,Akodon iniscatus,,LC,MDD and IUCN,not endemic,4.54,2.26,2.41,NA,NA,NA,NA,-,-,-,-,-,-,NA,NA,NA,NA,NA,NA,-,-
+,Akodon molinae,,LC,IUCN only,not endemic,NA,NA,41.57,29.61,NA,NA,NA,-,-,-,-,-,-,NA,NA,NA,NA,NA,NA,-,-
+,Akodon montensis,,LC,MDD and IUCN,not endemic,5.12,1.61,6.99,3.9,NA,NA,NA,-,-,-,-,-,-,NA,NA,NA,NA,NA,NA,-,-
+,Akodon paranaensis,,LC,MDD and IUCN,not endemic,16.31,12.61,17.95,14.13,NA,NA,NA,-,-,-,-,-,-,NA,NA,NA,NA,NA,NA,-,-
+"Endemic due occurrence records, but restricted to Integrative limit",Akodon philipmyersi,Akodon philipmyersi,DD,MDD and IUCN,endemic*,47.32,10.56,99.82,18.39,NA,NA,10.4,-,-,X,-,-,-,2,2,0,0,2,NA,X,-
+,Akodon polopi,,LC,MDD and IUCN,not endemic,35.04,17.88,52.01,38.45,NA,NA,NA,-,-,-,-,-,-,NA,NA,NA,NA,NA,NA,-,-
+,Akodon reigi,Akodon reigi,LC,MDD and IUCN,endemic,100,98.65,99.98,98.11,NA,NA,64.91,X,X,X,X,-,-,12,11,10,9,7,NA,X,X
+,Akodon toba,,LC,MDD and IUCN,not endemic,0.53,NA,0.7,NA,NA,NA,NA,-,-,-,-,-,-,NA,NA,NA,NA,NA,NA,-,-
+,Alouatta caraya,,NT,MDD and IUCN,not endemic,3.68,2.13,5.13,3.47,NA,NA,NA,-,-,-,-,-,-,NA,NA,NA,NA,NA,NA,-,-
+,Alouatta guariba,,VU,MDD and IUCN,not endemic,7.47,5.8,9.19,7.1,NA,NA,NA,-,-,-,-,-,-,NA,NA,NA,NA,NA,NA,-,-
+,Andalgalomys olrogi,,LC,MDD and IUCN,not endemic,0.14,NA,0.01,NA,NA,NA,NA,-,-,-,-,-,-,NA,NA,NA,NA,NA,NA,-,-
+,Anoura aequatoris,,LC,IUCN only,not endemic,NA,NA,0,NA,NA,NA,NA,-,-,-,-,-,-,NA,NA,NA,NA,NA,NA,-,-
+,Anoura caudifer,,LC,MDD and IUCN,not endemic,0.02,0,0.04,0.01,NA,NA,NA,-,-,-,-,-,-,NA,NA,NA,NA,NA,NA,-,-
+,Aotus azarae,,LC,MDD and IUCN,not endemic,0,NA,0.51,NA,NA,NA,NA,-,-,-,-,-,-,NA,NA,NA,NA,NA,NA,-,-
+,Arctophoca australis,,NA,MDD only,not endemic,0.23,0.01,NA,NA,NA,NA,NA,-,-,-,-,-,-,NA,NA,NA,NA,NA,NA,-,-
+,Artibeus fimbriatus,,LC,MDD and IUCN,not endemic,03.03,0.98,6.99,3.3,NA,NA,NA,-,-,-,-,-,-,NA,NA,NA,NA,NA,NA,-,-
+,Artibeus lituratus,,LC,MDD and IUCN,not endemic,0.27,0.19,0.57,0.32,NA,NA,NA,-,-,-,-,-,-,NA,NA,NA,NA,NA,NA,-,-
+,Artibeus obscurus,,LC,IUCN only,not endemic,NA,NA,0,NA,NA,NA,NA,-,-,-,-,-,-,NA,NA,NA,NA,NA,NA,-,-
+,Artibeus planirostris,,NA,MDD only,not endemic,0,NA,NA,NA,NA,NA,NA,-,-,-,-,-,-,NA,NA,NA,NA,NA,NA,-,-
+,Bibimys chacoensis,,LC,MDD and IUCN,not endemic,31.08,7.98,16.03,NA,NA,NA,NA,-,-,-,-,-,-,NA,NA,NA,NA,NA,NA,-,-
+,Bibimys labiosus,,LC,MDD and IUCN,not endemic,0.65,0.36,01.04,0.03,NA,NA,NA,-,-,-,-,-,-,NA,NA,NA,NA,NA,NA,-,-
+,Bibimys torresi,Bibimys torresi,VU,MDD and IUCN,endemic,99.98,99.79,100,99.98,NA,NA,53.34,X,X,X,X,-,-,3,3,3,3,3,NA,X,X
+,Blarinomys breviceps,,NA,MDD only,not endemic,1.24,0.38,NA,NA,NA,NA,NA,-,-,-,-,-,-,NA,NA,NA,NA,NA,NA,-,-
+,Bradypus variegatus,,NA,MDD only,not endemic,0.01,NA,NA,NA,NA,NA,NA,-,-,-,-,-,-,NA,NA,NA,NA,NA,NA,-,-
+,Brucepattersonius iheringi,,LC,MDD and IUCN,not endemic,10.89,6.54,39.7,31.74,NA,NA,NA,-,-,-,-,-,-,NA,NA,NA,NA,NA,NA,-,-
+,Brucepattersonius paradisus,,DD,IUCN only,not endemic,NA,NA,0.99,0.52,NA,NA,NA,-,-,-,-,-,-,NA,NA,NA,NA,NA,NA,-,-
+,Cabassous chacoensis,,NA,MDD only,not endemic,0.15,NA,NA,NA,NA,NA,NA,-,-,-,-,-,-,NA,NA,NA,NA,NA,NA,-,-
+,Cabassous tatouay,,LC,MDD and IUCN,not endemic,6.11,5.35,10.06,8.75,NA,NA,NA,-,-,-,-,-,-,NA,NA,NA,NA,NA,NA,-,-
+,Calomys callidus,,LC,MDD and IUCN,not endemic,37.45,27.14,74.18,48.7,NA,NA,NA,-,-,-,-,-,-,12,6,4,8,1,NA,-,-
+,Calomys callosus,,LC,MDD and IUCN,not endemic,0.97,NA,0.2,NA,NA,NA,NA,-,-,-,-,-,-,NA,NA,NA,NA,NA,NA,-,-
+,Calomys laucha,,LC,MDD and IUCN,not endemic,44.33,40.75,66.31,62.52,NA,NA,NA,-,-,-,-,-,-,NA,NA,NA,NA,NA,NA,-,-
+,Calomys musculinus,,LC,MDD and IUCN,not endemic,25.35,22.24,27.53,23.82,NA,NA,NA,-,-,-,-,-,-,NA,NA,NA,NA,NA,NA,-,-
+,Calomys tener,,NA,MDD only,not endemic,6.27,4.94,NA,NA,NA,NA,NA,-,-,-,-,-,-,NA,NA,NA,NA,NA,NA,-,-
+,Calomys venustus,,LC,MDD and IUCN,potentially endemic,21.72,15.04,97.87,93.12,NA,NA,11.58,-,-,X,X,-,-,8,1,1,8,1,NA,-,-
+,Caluromys lanatus,,LC,MDD and IUCN,not endemic,0.91,0.59,0.38,0.25,NA,NA,NA,-,-,-,-,-,-,NA,NA,NA,NA,NA,NA,-,-
+,Caluromys philander,,NA,MDD only,not endemic,0.01,NA,NA,NA,NA,NA,NA,-,-,-,-,-,-,NA,NA,NA,NA,NA,NA,-,-
+,Carollia perspicillata,,LC,MDD and IUCN,not endemic,0.95,0.6,0.81,0.5,NA,NA,NA,-,-,-,-,-,-,NA,NA,NA,NA,NA,NA,-,-
+,Castoria angustidens,,NA,MDD only,not endemic,1.46,01.08,NA,NA,NA,NA,NA,-,-,-,-,-,-,NA,NA,NA,NA,NA,NA,-,-
+,Cavia aperea,,LC,MDD and IUCN,not endemic,17.66,15.72,18.83,16.55,NA,NA,NA,-,-,-,-,-,-,NA,NA,NA,NA,NA,NA,-,-
+,Cavia fulgida,,NA,MDD only,not endemic,0,NA,NA,NA,NA,NA,NA,-,-,-,-,-,-,NA,NA,NA,NA,NA,NA,-,-
+,Cavia magna,,LC,MDD and IUCN,not endemic,66.06,60.93,61.75,56.63,NA,NA,NA,-,-,-,-,-,-,NA,NA,NA,NA,NA,NA,-,-
+,Cerdocyon thous,,LC,MDD and IUCN,not endemic,4.26,3.46,6.65,5.65,NA,NA,NA,-,-,-,-,-,-,NA,NA,NA,NA,NA,NA,-,-
+,Cerradomys maracajuensis,,NA,MDD only,not endemic,0.01,NA,NA,NA,NA,NA,NA,-,-,-,-,-,-,NA,NA,NA,NA,NA,NA,-,-
+,Cerradomys scotti,,NA,MDD only,not endemic,0,NA,NA,NA,NA,NA,NA,-,-,-,-,-,-,NA,NA,NA,NA,NA,NA,-,-
+,Chacodelphys formosa,,NT,MDD and IUCN,not endemic,27.4,4.9,17.2,NA,NA,NA,NA,-,-,-,-,-,-,NA,NA,NA,NA,NA,NA,-,-
+,Chaetophractus vellerosus,,LC,MDD and IUCN,not endemic,15.98,13.16,15.91,13.18,NA,NA,NA,-,-,-,-,-,-,NA,NA,NA,NA,NA,NA,-,-
+,Chaetophractus villosus,,LC,MDD and IUCN,not endemic,26.46,22.51,26.21,22.45,NA,NA,NA,-,-,-,-,-,-,NA,NA,NA,NA,NA,NA,-,-
+,Chiroderma doriae,,LC,IUCN only,not endemic,NA,NA,0.01,0.01,NA,NA,NA,-,-,-,-,-,-,NA,NA,NA,NA,NA,NA,-,-
+,Chironectes minimus,,NA,MDD only,not endemic,2.11,1.77,NA,NA,NA,NA,NA,-,-,-,-,-,-,NA,NA,NA,NA,NA,NA,-,-
+,Chlamyphorus truncatus,,DD,MDD and IUCN,not endemic,38.7,27.72,36.74,25.39,NA,NA,NA,-,-,-,-,-,-,NA,NA,NA,NA,NA,NA,-,-
+,Chrotopterus auritus,,LC,MDD and IUCN,not endemic,01.04,0.62,1.26,0.81,NA,NA,NA,-,-,-,-,-,-,NA,NA,NA,NA,NA,NA,-,-
+,Chrysocyon brachyurus,,NT,MDD and IUCN,not endemic,1.99,0.89,8.46,6.42,NA,NA,NA,-,-,-,-,-,-,NA,NA,NA,NA,NA,NA,-,-
+,Coendou prehensilis,,LC,MDD and IUCN,not endemic,0.63,0.39,0.35,0.22,NA,NA,NA,-,-,-,-,-,-,NA,NA,NA,NA,NA,NA,-,-
+,Coendou spinosus,,LC,MDD and IUCN,not endemic,24.05,20.92,21.89,19.41,NA,NA,NA,-,-,-,-,-,-,NA,NA,NA,NA,NA,NA,-,-
+,Conepatus chinga,,LC,MDD and IUCN,not endemic,27.89,25.24,23.56,20.29,NA,NA,NA,-,-,-,-,-,-,NA,NA,NA,NA,NA,NA,-,-
+,Cryptonanus chacoensis,,LC,MDD and IUCN,not endemic,35.18,30.36,23.13,16.22,NA,NA,NA,-,-,-,-,-,-,NA,NA,NA,NA,NA,NA,-,-
+,Cryptonanus guahybae,,DD,MDD and IUCN,potentially endemic,48.68,42.58,100,99.27,NA,NA,7.89,-,-,X,X,-,-,8,5,4,5,3,NA,-,-
+,Ctenomys argentinus,,NT,MDD and IUCN,not endemic,8.24,3.36,13.58,NA,NA,NA,NA,-,-,-,-,-,-,NA,NA,NA,NA,NA,NA,-,-
+,Ctenomys australis,Ctenomys australis,EN,MDD and IUCN,endemic,99.95,99.82,100,94.22,NA,NA,73.9,X,X,X,X,-,-,6,5,5,5,5,NA,X,X
+"nominal name for Ctenomys mendocinus R. A. Philippi, 1869",Ctenomys azarae,,EN,MDD and IUCN,potentially endemic,63.2,55.71,92.86,65.5,NA,NA,2.47,-,-,X,-,-,-,9,6,6,7,1,NA,-,-
+,Ctenomys bergi,,EN,MDD and IUCN,not endemic,15.79,07.07,0.3,NA,NA,NA,NA,-,-,-,-,-,-,NA,NA,NA,NA,NA,NA,-,-
+,Ctenomys bonettoi,,EN,MDD and IUCN,not endemic,05.08,NA,18.05,NA,NA,NA,NA,-,-,-,-,-,-,NA,NA,NA,NA,NA,NA,-,-
+Data deficiency and 1 record only,Ctenomys brasiliensis,Ctenomys brasiliensis,DD,MDD and IUCN,endemic,100,99.99,100,99.99,NA,NA,12.01,X,X,X,X,-,-,1,1,1,0,1,NA,X,X
+Considered endemic for the integrative limit,Ctenomys dorbignyi,Ctenomys dorbignyi,NT,MDD and IUCN,endemic*,88.39,60.91,80.75,54.39,NA,NA,58.13,X,-,X,-,-,-,8,6,2,5,8,NA,-,-
+"Considered endemic by experts, restricted to the coastal region from Rio Grande do Sul",Ctenomys flamarioni,Ctenomys flamarioni,EN,MDD and IUCN,endemic*,78.75,69.98,77.78,66.45,NA,NA,58.68,-,-,-,-,-,-,18,18,3,8,14,NA,X,-
+,Ctenomys ibicuiensis,Ctenomys ibicuiensis,DD,MDD and IUCN,endemic,99,97.24,98.51,95.41,NA,NA,37.26,X,X,X,X,-,-,3,3,3,3,3,NA,X,X
+Endemic due occurrence records,Ctenomys lami,Ctenomys lami,VU,MDD and IUCN,endemic,55.23,45.69,80.31,65.58,NA,NA,53.85,-,-,X,-,-,-,17,17,15,16,16,NA,X,X
+,Ctenomys mendocinus,,LC,MDD and IUCN,not endemic,47.84,38.5,44.18,30.3,NA,NA,NA,-,-,-,-,-,-,NA,NA,NA,NA,NA,NA,-,-
+,Ctenomys minutus,,DD,MDD and IUCN,not endemic,26.22,18.26,36.87,21,NA,NA,NA,-,-,-,-,-,-,NA,NA,NA,NA,NA,NA,-,-
+,Ctenomys osvaldoreigi,,CR,MDD and IUCN,not endemic,48.14,39.25,14.95,9.27,NA,NA,NA,-,-,-,-,-,-,NA,NA,NA,NA,NA,NA,-,-
+,Ctenomys paraguayensis,,NA,MDD only,not endemic,4.49,NA,NA,NA,NA,NA,NA,-,-,-,-,-,-,NA,NA,NA,NA,NA,NA,-,-
+,Ctenomys pearsoni,Ctenomys pearsoni,NT,MDD and IUCN,endemic,99.98,99.82,100,98.76,NA,NA,38.26,X,X,X,X,-,-,15,15,11,8,12,NA,X,-
+"Endemic due occurrence records, but restricted to Integrative limit",Ctenomys perrensi,Ctenomys perrensi,LC,MDD and IUCN,endemic*,63.43,9.11,93.51,73.12,NA,NA,8.96,-,-,X,-,-,-,2,2,0,2,0,NA,X,-
+,Ctenomys pilarensis,,EN,MDD and IUCN,not endemic,22.69,NA,24.54,NA,NA,NA,NA,-,-,-,-,-,-,NA,NA,NA,NA,NA,NA,-,-
+,Ctenomys pontifex,,DD,IUCN only,not endemic,NA,NA,0.86,NA,NA,NA,NA,-,-,-,-,-,-,NA,NA,NA,NA,NA,NA,-,-
+"nominal name for Ctenomys mendocinus R. A. Philippi, 1869",Ctenomys porteousi,,NT,MDD and IUCN,potentially endemic**,100,100,100,100,NA,NA,50.57,X,X,X,X,-,-,5,5,5,5,5,NA,X,X
+Recently described species,Ctenomys pulcer,Ctenomys pulcer,NE,Bibliography,endemic,NA,NA,NA,NA,100,100,NA,-,-,-,-,X,X,1,1,1,NA,NA,1,X,X
+"nominal name for Ctenomys talarum O. Thomas, 1898",Ctenomys pundti,,EN,MDD and IUCN,potentially endemic**,99.72,96.88,100,100,NA,NA,14.99,X,X,X,X,-,-,5,5,4,3,2,NA,X,X
+,Ctenomys rionegrensis,Ctenomys rionegrensis,EN,MDD and IUCN,endemic,99.99,99.77,100,100,NA,NA,60.84,X,X,X,X,-,-,12,12,12,9,12,NA,X,X
+Considered endemic due to restricted area and occurrences in a fragmented and restricted region of Integrative limit,Ctenomys roigi,Ctenomys roigi,CR,MDD and IUCN,endemic*,49.54,NA,100,NA,NA,NA,0.36,-,-,X,-,-,-,4,2,0,2,2,NA,-,-
+" Although the species is considered distinct, the name 'rosendopascuali' is considered nomenclaturally unavailable and needs to be correcetly described.",Ctenomys rosendopascuali,,NA,MDD only,potentially endemic**,83.6,70.26,NA,NA,NA,NA,NA,X,-,-,-,-,-,3,3,0,1,NA,NA,X,-
+,Ctenomys talarum,Ctenomys talarum,LC,MDD and IUCN,endemic,93.71,88.45,100,99.42,NA,NA,12.31,X,X,X,X,-,-,19,18,16,17,6,NA,X,X
+,Ctenomys torquatus,Ctenomys torquatus,LC,MDD and IUCN,endemic,98.84,94.69,99.72,96.93,NA,NA,64.64,X,X,X,X,-,-,25,24,20,24,16,NA,X,X
+"Although the species is considered distinct, the name 'yolandae' is considered nomenclaturally unavailable and needs to be correctly described",Ctenomys yolandae,,DD,MDD and IUCN,potentially endemic**,65.11,46.4,75.51,59.72,NA,NA,72.01,-,-,-,-,-,-,6,6,5,5,6,NA,X,X
+,Cuniculus paca,,LC,MDD and IUCN,not endemic,01.02,0.79,0.88,0.69,NA,NA,NA,-,-,-,-,-,-,NA,NA,NA,NA,NA,NA,-,-
+,Cynomops abrasus,,DD,MDD and IUCN,not endemic,0.46,0.05,0.11,0.04,NA,NA,NA,-,-,-,-,-,-,NA,NA,NA,NA,NA,NA,-,-
+,Cynomops paranus,,DD,IUCN only,not endemic,NA,NA,0.2,NA,NA,NA,NA,-,-,-,-,-,-,NA,NA,NA,NA,NA,NA,-,-
+,Cynomops planirostris,,LC,MDD and IUCN,not endemic,0.35,0.07,0.01,NA,NA,NA,NA,-,-,-,-,-,-,NA,NA,NA,NA,NA,NA,-,-
+,Dasyprocta azarae,,DD,MDD and IUCN,not endemic,2.59,2,11.1,9.53,NA,NA,NA,-,-,-,-,-,-,NA,NA,NA,NA,NA,NA,-,-
+,Dasypus hybridus,,NT,IUCN only,not endemic,NA,NA,68.16,61.73,NA,NA,NA,-,-,-,-,-,-,NA,NA,NA,NA,NA,NA,-,-
+,Dasypus novemcinctus,,LC,MDD and IUCN,not endemic,2.99,2.53,3.19,2.7,NA,NA,NA,-,-,-,-,-,-,NA,NA,NA,NA,NA,NA,-,-
+,Dasypus septemcinctus,,LC,MDD and IUCN,not endemic,8.83,7.73,0.66,0.37,NA,NA,NA,-,-,-,-,-,-,NA,NA,NA,NA,NA,NA,-,-
+,Delomys dorsalis,,LC,MDD and IUCN,not endemic,0.19,NA,0.04,0.02,NA,NA,NA,-,-,-,-,-,-,NA,NA,NA,NA,NA,NA,-,-
+,Deltamys araucaria,,NA,MDD only,not endemic,07.06,0.28,NA,NA,NA,NA,NA,-,-,-,-,-,-,NA,NA,NA,NA,NA,NA,-,-
+,Deltamys kempi,Deltamys kempi,NE,MDD only,endemic,94.99,92.47,NA,NA,NA,NA,NA,X,X,-,-,-,-,31,29,23,29,NA,NA,X,-
+,Desmodus rotundus,,LC,MDD and IUCN,not endemic,3.99,3.41,04.06,3.46,NA,NA,NA,-,-,-,-,-,-,NA,NA,NA,NA,NA,NA,-,-
+,Diaemus youngii,,LC,MDD and IUCN,not endemic,0.1,0.07,0.23,0.16,NA,NA,NA,-,-,-,-,-,-,NA,NA,NA,NA,NA,NA,-,-
+,Didelphis albiventris,,LC,MDD and IUCN,not endemic,18.21,16.2,17.24,15.15,NA,NA,NA,-,-,-,-,-,-,NA,NA,NA,NA,NA,NA,-,-
+,Didelphis aurita,,LC,MDD and IUCN,not endemic,1.74,1.21,1.32,0.89,NA,NA,NA,-,-,-,-,-,-,NA,NA,NA,NA,NA,NA,-,-
+,Dolichotis patagonum,,NT,MDD and IUCN,not endemic,28.43,22.19,30.22,24.25,NA,NA,NA,-,-,-,-,-,-,NA,NA,NA,NA,NA,NA,-,-
+,Dolichotis salinicola,,LC,IUCN only,not endemic,NA,NA,0.28,0.03,NA,NA,NA,-,-,-,-,-,-,NA,NA,NA,NA,NA,NA,-,-
+,Dusicyon avus,,EX,IUCN only,not endemic,NA,NA,51.45,47.83,NA,NA,NA,-,-,-,-,-,-,NA,NA,NA,NA,NA,NA,-,-
+,Eira barbara,,LC,MDD and IUCN,not endemic,1.68,1.43,1.47,1.24,NA,NA,NA,-,-,-,-,-,-,NA,NA,NA,NA,NA,NA,-,-
+,Eligmodontia typus,,LC,MDD and IUCN,not endemic,18.71,12.04,15.93,8.88,NA,NA,NA,-,-,-,-,-,-,NA,NA,NA,NA,NA,NA,-,-
+,Eptesicus brasiliensis,,LC,MDD and IUCN,not endemic,3.51,2.95,0.15,0.03,NA,NA,NA,-,-,-,-,-,-,NA,NA,NA,NA,NA,NA,-,-
+,Eptesicus diminutus,,LC,MDD and IUCN,not endemic,14.79,12.53,14.7,12.24,NA,NA,NA,-,-,-,-,-,-,NA,NA,NA,NA,NA,NA,-,-
+,Eptesicus furinalis,,LC,MDD and IUCN,not endemic,6.45,5.68,06.06,5.35,NA,NA,NA,-,-,-,-,-,-,NA,NA,NA,NA,NA,NA,-,-
+,Eptesicus ulapesensis,,NA,MDD only,not endemic,21.31,6.3,NA,NA,NA,NA,NA,-,-,-,-,-,-,NA,NA,NA,NA,NA,NA,-,-
+,Eumops auripendulus,,LC,MDD and IUCN,not endemic,1.29,0.81,1.37,0.89,NA,NA,NA,-,-,-,-,-,-,NA,NA,NA,NA,NA,NA,-,-
+,Eumops bonariensis,,LC,MDD and IUCN,not endemic,39.3,34.1,58.79,50.73,NA,NA,NA,-,-,-,-,-,-,NA,NA,NA,NA,NA,NA,-,-
+,Eumops dabbenei,,LC,MDD and IUCN,not endemic,16.2,10.14,0.69,NA,NA,NA,NA,-,-,-,-,-,-,NA,NA,NA,NA,NA,NA,-,-
+,Eumops hansae,,NA,MDD only,not endemic,0.04,0.01,NA,NA,NA,NA,NA,-,-,-,-,-,-,NA,NA,NA,NA,NA,NA,-,-
+,Eumops patagonicus,,LC,MDD and IUCN,not endemic,22.7,14.68,29.31,24.38,NA,NA,NA,-,-,-,-,-,-,NA,NA,NA,NA,NA,NA,-,-
+,Eumops perotis,,LC,MDD and IUCN,not endemic,0.48,NA,2.24,1.59,NA,NA,NA,-,-,-,-,-,-,NA,NA,NA,NA,NA,NA,-,-
+,Euphractus sexcinctus,,LC,MDD and IUCN,not endemic,7.69,6.52,7.75,6.58,NA,NA,NA,-,-,-,-,-,-,NA,NA,NA,NA,NA,NA,-,-
+,Euryoryzomys russatus,,LC,MDD and IUCN,not endemic,3.96,2.68,1.74,1.19,NA,NA,NA,-,-,-,-,-,-,NA,NA,NA,NA,NA,NA,-,-
+,Euryzygomatomys spinosus,,LC,MDD and IUCN,not endemic,6.29,4.26,12.24,10.25,NA,NA,NA,-,-,-,-,-,-,NA,NA,NA,NA,NA,NA,-,-
+,Galea leucoblephara,,LC,MDD and IUCN,not endemic,18.75,14.71,19.73,15.57,NA,NA,NA,-,-,-,-,-,-,NA,NA,NA,NA,NA,NA,-,-
+,Galictis cuja,,LC,MDD and IUCN,not endemic,22.17,18.79,15.58,13.42,NA,NA,NA,-,-,-,-,-,-,NA,NA,NA,NA,NA,NA,-,-
+,Glossophaga soricina,,LC,MDD and IUCN,not endemic,0.93,0.64,01.02,0.71,NA,NA,NA,-,-,-,-,-,-,NA,NA,NA,NA,NA,NA,-,-
+,Gracilinanus agilis,,NA,MDD only,not endemic,0,NA,NA,NA,NA,NA,NA,-,-,-,-,-,-,NA,NA,NA,NA,NA,NA,-,-
+,Gracilinanus microtarsus,,LC,MDD and IUCN,not endemic,1.62,01.06,0.84,0.55,NA,NA,NA,-,-,-,-,-,-,NA,NA,NA,NA,NA,NA,-,-
+,Graomys chacoensis,,DD,MDD and IUCN,not endemic,10.55,7.64,11.73,8.51,NA,NA,NA,-,-,-,-,-,-,NA,NA,NA,NA,NA,NA,-,-
+,Graomys griseoflavus,,LC,MDD and IUCN,not endemic,14.6,7.95,11.67,7.24,NA,NA,NA,-,-,-,-,-,-,NA,NA,NA,NA,NA,NA,-,-
+,Gyldenstolpia fronto,,CR,MDD and IUCN,not endemic,7.96,NA,20.19,NA,NA,NA,NA,-,-,-,-,-,-,NA,NA,NA,NA,NA,NA,-,-
+,Herpailurus yagouaroundi,,LC,MDD and IUCN,not endemic,4.41,3.55,4.22,3.19,NA,NA,NA,-,-,-,-,-,-,NA,NA,NA,NA,NA,NA,-,-
+MDD recognize this species but outside of Integrative limit,Histiotus alienus,,DD,IUCN only,potentially endemic,NA,NA,92.55,89.67,NA,NA,NA,-,-,X,X,-,-,2,0,0,NA,1,NA,-,-
+,Histiotus macrotus,,LC,MDD and IUCN,not endemic,0,NA,0.05,NA,NA,NA,NA,-,-,-,-,-,-,NA,NA,NA,NA,NA,NA,-,-
+,Histiotus montanus,,LC,MDD and IUCN,not endemic,18.31,16.63,5.77,4.78,NA,NA,NA,-,-,-,-,-,-,NA,NA,NA,NA,NA,NA,-,-
+,Histiotus velatus,,DD,MDD and IUCN,not endemic,5.64,4.14,04.04,2.92,NA,NA,NA,-,-,-,-,-,-,NA,NA,NA,NA,NA,NA,-,-
+,Holochilus brasiliensis,,NA,MDD only,not endemic,08.04,07.08,NA,NA,NA,NA,NA,-,-,-,-,-,-,NA,NA,NA,NA,NA,NA,-,-
+,Holochilus chacarius,,NA,MDD only,not endemic,10.68,5.81,NA,NA,NA,NA,NA,-,-,-,-,-,-,NA,NA,NA,NA,NA,NA,-,-
+" The name vulpinus has been recognized as a distinct species (under two distinct concepts, one leading to a monophyletic relationship with brasiliensis [D'Elía et al., 2015], and the other leading to a paraphyletic relationship [Gonçalves et al., 2015]), although recent molecular studies suggest that the two taxa should be treated as a single species pending further molecular sampling from a larger sample size, thus, vulpinus is considered a synonym of H. brasiliensis",Holochilus vulpinus,,NA,MDD only,potentially endemic**,87.26,76.89,NA,NA,NA,NA,NA,X,-,-,-,-,-,17,13,11,17,NA,NA,-,-
+,Hydrochoerus hydrochaeris,,NA,MDD only,not endemic,4.91,4.24,NA,NA,NA,NA,NA,-,-,-,-,-,-,NA,NA,NA,NA,NA,NA,-,-
+,Juliomys ossitenuis,,NA,MDD only,not endemic,1.38,0.72,NA,NA,NA,NA,NA,-,-,-,-,-,-,NA,NA,NA,NA,NA,NA,-,-
+,Juliomys pictipes,,NA,MDD only,not endemic,01.07,0.62,NA,NA,NA,NA,NA,-,-,-,-,-,-,NA,NA,NA,NA,NA,NA,-,-
+,Juliomys ximenezi,,NA,MDD only,not endemic,0.45,0.06,NA,NA,NA,NA,NA,-,-,-,-,-,-,NA,NA,NA,NA,NA,NA,-,-
+,Kannabateomys amblyonyx,,LC,MDD and IUCN,not endemic,8.22,06.05,6.36,4.83,NA,NA,NA,-,-,-,-,-,-,NA,NA,NA,NA,NA,NA,-,-
+,Lagostomus maximus,,LC,MDD and IUCN,not endemic,35.64,28.17,48.99,43.28,NA,NA,NA,-,-,-,-,-,-,NA,NA,NA,NA,NA,NA,-,-
+,Lama guanicoe,,LC,IUCN only,not endemic,NA,NA,6.88,3.93,NA,NA,NA,-,-,-,-,-,-,NA,NA,NA,NA,NA,NA,-,-
+,Lasiurus blossevillii,,LC,MDD and IUCN,not endemic,5.93,5.23,4.25,3.74,NA,NA,NA,-,-,-,-,-,-,NA,NA,NA,NA,NA,NA,-,-
+,Lasiurus cinereus,,LC,IUCN only,not endemic,NA,NA,5.7,4.91,NA,NA,NA,-,-,-,-,-,-,NA,NA,NA,NA,NA,NA,-,-
+,Lasiurus ega,,LC,MDD and IUCN,not endemic,6.15,5.57,06.02,5.44,NA,NA,NA,-,-,-,-,-,-,NA,NA,NA,NA,NA,NA,-,-
+,Lasiurus egregius,,DD,MDD and IUCN,not endemic,07.01,07.01,11.77,8.67,NA,NA,NA,-,-,-,-,-,-,NA,NA,NA,NA,NA,NA,-,-
+,Lasiurus salinae,,DD,IUCN only,not endemic,NA,NA,58.88,55.97,NA,NA,NA,-,-,-,-,-,-,NA,NA,NA,NA,NA,NA,-,-
+,Lasiurus villosissimus,,NA,MDD only,not endemic,15.73,13.55,NA,NA,NA,NA,NA,-,-,-,-,-,-,NA,NA,NA,NA,NA,NA,-,-
+,Leopardus braccatus,,NA,MDD only,not endemic,0.64,0.04,NA,NA,NA,NA,NA,-,-,-,-,-,-,NA,NA,NA,NA,NA,NA,-,-
+,Leopardus colocolo,,NT,IUCN only,not endemic,NA,NA,12.68,11.04,NA,NA,NA,-,-,-,-,-,-,NA,NA,NA,NA,NA,NA,-,-
+,Leopardus geoffroyi,,LC,MDD and IUCN,not endemic,39.61,34.4,32.03,27.89,NA,NA,NA,-,-,-,-,-,-,NA,NA,NA,NA,NA,NA,-,-
+,Leopardus guttulus,,VU,MDD and IUCN,not endemic,0.94,0.65,2.37,1.52,NA,NA,NA,-,-,-,-,-,-,NA,NA,NA,NA,NA,NA,-,-
+"*split from L. braccatus (and from L. colocola after being lumped); previously known under the name munoai, but the name fasciatus (previously a synonym of L. pajeros) appears to represent the oldest name for this species",Leopardus munoai,Leopardus fasciatus,NE,MDD only,endemic,95.97,86.22,NA,NA,NA,NA,NA,X,X,-,-,-,-,97,97,96,96,NA,NA,X,X
+,Leopardus pajeros,,NA,MDD only,not endemic,36.68,32.12,NA,NA,NA,NA,NA,-,-,-,-,-,-,NA,NA,NA,NA,NA,NA,-,-
+,Leopardus pardalis,,LC,MDD and IUCN,not endemic,2.16,1.56,0.38,0.19,NA,NA,NA,-,-,-,-,-,-,NA,NA,NA,NA,NA,NA,-,-
+,Leopardus wiedii,,NT,MDD and IUCN,not endemic,2.89,2.4,0.88,0.62,NA,NA,NA,-,-,-,-,-,-,NA,NA,NA,NA,NA,NA,-,-
+,Lepus europaeus,,LC,IUCN only,not endemic,NA,NA,29.1,26.22,NA,NA,NA,-,-,-,-,-,-,NA,NA,NA,NA,NA,NA,-,-
+,Lestodelphys halli,,LC,MDD and IUCN,not endemic,1.33,0.42,0.14,NA,NA,NA,NA,-,-,-,-,-,-,NA,NA,NA,NA,NA,NA,-,-
+,Lontra longicaudis,,NA,MDD only,not endemic,5.3,4.62,NA,NA,NA,NA,NA,-,-,-,-,-,-,NA,NA,NA,NA,NA,NA,-,-
+,Lundomys molitor,Lundomys molitor,NE,MDD only,endemic,95.78,91.95,NA,NA,NA,NA,NA,X,X,-,-,-,-,8,8,8,7,NA,NA,X,X
+,Lutreolina crassicaudata,,LC,MDD and IUCN,not endemic,35.06,31.07,30.99,28.24,NA,NA,NA,-,-,-,-,-,-,NA,NA,NA,NA,NA,NA,-,-
+,Lycalopex culpaeus,,LC,IUCN only,not endemic,NA,NA,0.05,0.01,NA,NA,NA,-,-,-,-,-,-,NA,NA,NA,NA,NA,NA,-,-
+,Lycalopex griseus,,LC,MDD and IUCN,not endemic,7.84,5.81,07.04,4.91,NA,NA,NA,-,-,-,-,-,-,NA,NA,NA,NA,NA,NA,-,-
+,Lycalopex gymnocercus,,LC,MDD and IUCN,not endemic,37.58,33.12,41.86,36.61,NA,NA,NA,-,-,-,-,-,-,NA,NA,NA,NA,NA,NA,-,-
+,Lyncodon patagonicus,,LC,MDD and IUCN,not endemic,18.86,15.84,22.57,19.75,NA,NA,NA,-,-,-,-,-,-,NA,NA,NA,NA,NA,NA,-,-
+,Macrophyllum macrophyllum,,LC,MDD and IUCN,not endemic,0.07,0.05,0.16,0.1,NA,NA,NA,-,-,-,-,-,-,NA,NA,NA,NA,NA,NA,-,-
+,Marmosa paraguayana,,LC,MDD and IUCN,not endemic,2.72,1.93,0.59,0.27,NA,NA,NA,-,-,-,-,-,-,NA,NA,NA,NA,NA,NA,-,-
+,Mazama americana,,DD,IUCN only,not endemic,NA,NA,0.1,0,NA,NA,NA,-,-,-,-,-,-,NA,NA,NA,NA,NA,NA,-,-
+,Mazama bororo,,VU,IUCN only,not endemic,NA,NA,0.21,NA,NA,NA,NA,-,-,-,-,-,-,NA,NA,NA,NA,NA,NA,-,-
+,Mazama gouazoubira,,LC,IUCN only,not endemic,NA,NA,12.01,10.22,NA,NA,NA,-,-,-,-,-,-,NA,NA,NA,NA,NA,NA,-,-
+,Mazama nana,,VU,IUCN only,not endemic,NA,NA,3.55,2.85,NA,NA,NA,-,-,-,-,-,-,NA,NA,NA,NA,NA,NA,-,-
+,Metachirus myosuros,,NA,MDD only,not endemic,0.5,0.2,NA,NA,NA,NA,NA,-,-,-,-,-,-,NA,NA,NA,NA,NA,NA,-,-
+,Metachirus nudicaudatus,,LC,IUCN only,not endemic,NA,NA,0.02,0,NA,NA,NA,-,-,-,-,-,-,NA,NA,NA,NA,NA,NA,-,-
+,Microcavia australis,,LC,MDD and IUCN,not endemic,2.4,0.04,23.29,18.79,NA,NA,NA,-,-,-,-,-,-,NA,NA,NA,NA,NA,NA,-,-
+,Mirounga leonina,,NA,MDD only,not endemic,0,0,NA,NA,NA,NA,NA,-,-,-,-,-,-,NA,NA,NA,NA,NA,NA,-,-
+,Molossops neglectus,,NA,MDD only,not endemic,5.63,3.55,NA,NA,NA,NA,NA,-,-,-,-,-,-,NA,NA,NA,NA,NA,NA,-,-
+,Molossops temminckii,,LC,MDD and IUCN,not endemic,4.83,04.07,4.62,3.85,NA,NA,NA,-,-,-,-,-,-,NA,NA,NA,NA,NA,NA,-,-
+,Molossus currentium,,LC,MDD and IUCN,not endemic,42.17,34.93,15.89,12.08,NA,NA,NA,-,-,-,-,-,-,NA,NA,NA,NA,NA,NA,-,-
+,Molossus fluminensis,,NA,MDD only,not endemic,13.47,10.94,NA,NA,NA,NA,NA,-,-,-,-,-,-,NA,NA,NA,NA,NA,NA,-,-
+,Molossus molossus,,LC,MDD and IUCN,not endemic,7,6.26,3.86,3.28,NA,NA,NA,-,-,-,-,-,-,NA,NA,NA,NA,NA,NA,-,-
+,Molossus rufus,,LC,IUCN only,not endemic,NA,NA,1.77,1.21,NA,NA,NA,-,-,-,-,-,-,NA,NA,NA,NA,NA,NA,-,-
+,Monodelphis dimidiata,,LC,MDD and IUCN,not endemic,47.65,45,42.08,39.92,NA,NA,NA,-,-,-,-,-,-,NA,NA,NA,NA,NA,NA,-,-
+,Monodelphis iheringi,,DD,MDD and IUCN,not endemic,0.68,0.17,2.48,1.92,NA,NA,NA,-,-,-,-,-,-,NA,NA,NA,NA,NA,NA,-,-
+,Monodelphis unistriata,,NA,MDD only,not endemic,0.15,0.07,NA,NA,NA,NA,NA,-,-,-,-,-,-,NA,NA,NA,NA,NA,NA,-,-
+,Mus musculus,,LC,IUCN only,not endemic,NA,NA,1.85,1.74,NA,NA,NA,-,-,-,-,-,-,NA,NA,NA,NA,NA,NA,-,-
+,Myocastor coypus,,LC,MDD and IUCN,not endemic,34.06,29.39,30.72,26.46,NA,NA,NA,-,-,-,-,-,-,NA,NA,NA,NA,NA,NA,-,-
+,Myotis albescens,,LC,MDD and IUCN,not endemic,3.74,3.24,3.99,3.56,NA,NA,NA,-,-,-,-,-,-,NA,NA,NA,NA,NA,NA,-,-
+,Myotis dinellii,,LC,MDD and IUCN,not endemic,21.3,15.89,24.59,20.02,NA,NA,NA,-,-,-,-,-,-,NA,NA,NA,NA,NA,NA,-,-
+,Myotis izecksohni,,NA,MDD only,not endemic,1.37,0.03,NA,NA,NA,NA,NA,-,-,-,-,-,-,NA,NA,NA,NA,NA,NA,-,-
+,Myotis lavali,,NA,MDD only,not endemic,0.01,NA,NA,NA,NA,NA,NA,-,-,-,-,-,-,NA,NA,NA,NA,NA,NA,-,-
+,Myotis levis,,LC,MDD and IUCN,not endemic,56.14,50.65,58.82,52.88,NA,NA,NA,-,-,-,-,-,-,NA,NA,NA,NA,NA,NA,-,-
+,Myotis nigricans,,LC,MDD and IUCN,not endemic,0.09,0.05,0.77,0.43,NA,NA,NA,-,-,-,-,-,-,NA,NA,NA,NA,NA,NA,-,-
+Recently described species,Myotis pampa,Myotis pampa,NE,Bibliography,endemic,NA,NA,NA,NA,100,95.43,NA,-,-,-,-,X,X,3,3,3,NA,NA,3,X,X
+,Myotis riparius,,LC,MDD and IUCN,not endemic,03.07,2.45,2.39,1.98,NA,NA,NA,-,-,-,-,-,-,NA,NA,NA,NA,NA,NA,-,-
+,Myotis ruber,,NT,MDD and IUCN,not endemic,38.65,33.46,25.33,21.12,NA,NA,NA,-,-,-,-,-,-,NA,NA,NA,NA,NA,NA,-,-
+,Myotis simus,,DD,MDD and IUCN,not endemic,2.47,0.88,0.19,0.06,NA,NA,NA,-,-,-,-,-,-,NA,NA,NA,NA,NA,NA,-,-
+,Myrmecophaga tridactyla,,VU,MDD and IUCN,not endemic,03.07,2.38,03.09,2.38,NA,NA,NA,-,-,-,-,-,-,NA,NA,NA,NA,NA,NA,-,-
+,Nasua nasua,,LC,MDD and IUCN,not endemic,2.52,1.86,2.34,1.87,NA,NA,NA,-,-,-,-,-,-,NA,NA,NA,NA,NA,NA,-,-
+"nominal name for Necromys lasiurus (Lund, 1840)",Necromys benefactus,,LC,IUCN only,potentially endemic,NA,NA,85.18,81.49,NA,NA,NA,-,-,X,X,-,-,NA,NA,NA,NA,NA,NA,-,-
+,Necromys lasiurus,,LC,MDD and IUCN,not endemic,13.77,11.97,0.59,0.39,NA,NA,NA,-,-,-,-,-,-,NA,NA,NA,NA,NA,NA,-,-
+,Necromys obscurus,Necromys obscurus,LC,MDD and IUCN,endemic,99.98,99.86,99.99,98.84,NA,NA,84.47,X,X,X,X,-,-,15,15,14,13,15,NA,X,X
+,Necromys temchuki,,LC,IUCN only,not endemic,NA,NA,30.77,2.26,NA,NA,NA,-,-,-,-,-,-,NA,NA,NA,NA,NA,NA,-,-
+,Nectomys squamipes,,NA,MDD only,not endemic,0.78,0.47,NA,NA,NA,NA,NA,-,-,-,-,-,-,NA,NA,NA,NA,NA,NA,-,-
+,Noctilio albiventris,,LC,MDD and IUCN,not endemic,0.39,0.03,0.56,0.17,NA,NA,NA,-,-,-,-,-,-,NA,NA,NA,NA,NA,NA,-,-
+,Noctilio leporinus,,LC,MDD and IUCN,not endemic,01.07,0.63,01.03,0.56,NA,NA,NA,-,-,-,-,-,-,NA,NA,NA,NA,NA,NA,-,-
+,Nyctinomops laticaudatus,,LC,MDD and IUCN,not endemic,0.88,0.71,01.06,0.82,NA,NA,NA,-,-,-,-,-,-,NA,NA,NA,NA,NA,NA,-,-
+,Nyctinomops macrotis,,LC,MDD and IUCN,not endemic,0.58,0.56,0,NA,NA,NA,NA,-,-,-,-,-,-,NA,NA,NA,NA,NA,NA,-,-
+,Oecomys catherinae,,LC,IUCN only,not endemic,NA,NA,0.01,NA,NA,NA,NA,-,-,-,-,-,-,NA,NA,NA,NA,NA,NA,-,-
+,Oecomys franciscorum,,NA,MDD only,not endemic,5.27,NA,NA,NA,NA,NA,NA,-,-,-,-,-,-,NA,NA,NA,NA,NA,NA,-,-
+,Oecomys mamorae,,LC,IUCN only,not endemic,NA,NA,13.57,NA,NA,NA,NA,-,-,-,-,-,-,NA,NA,NA,NA,NA,NA,-,-
+,Oligoryzomys chacoensis,,LC,MDD and IUCN,not endemic,0.72,NA,0.57,NA,NA,NA,NA,-,-,-,-,-,-,NA,NA,NA,NA,NA,NA,-,-
+"nominal name for Oligoryzomys nigripes (Olfers, 1818)",Oligoryzomys delticola,,LC,IUCN only,potentially endemic,NA,NA,92.82,90.24,NA,NA,NA,-,-,X,X,-,-,NA,NA,NA,NA,NA,NA,-,-
+,Oligoryzomys flavescens,,LC,MDD and IUCN,not endemic,45.48,39.79,37.16,32.69,NA,NA,NA,-,-,-,-,-,-,NA,NA,NA,NA,NA,NA,-,-
+,Oligoryzomys fornesi,,LC,IUCN only,not endemic,NA,NA,1.45,NA,NA,NA,NA,-,-,-,-,-,-,NA,NA,NA,NA,NA,NA,-,-
+,Oligoryzomys longicaudatus,,LC,MDD and IUCN,not endemic,2.9,0,5.47,0.18,NA,NA,NA,-,-,-,-,-,-,NA,NA,NA,NA,NA,NA,-,-
+,Oligoryzomys nigripes,,LC,MDD and IUCN,not endemic,23.23,20.26,17.15,14.77,NA,NA,NA,-,-,-,-,-,-,NA,NA,NA,NA,NA,NA,-,-
+,Otaria byronia,,NA,MDD only,not endemic,0.13,0.01,NA,NA,NA,NA,NA,-,-,-,-,-,-,NA,NA,NA,NA,NA,NA,-,-
+,Oxymycterus delator,,NA,MDD only,not endemic,0.02,NA,NA,NA,NA,NA,NA,-,-,-,-,-,-,NA,NA,NA,NA,NA,NA,-,-
+,Oxymycterus josei,Oxymycterus josei,NT,MDD and IUCN,endemic,99.99,99.87,100,98.79,NA,NA,71.6,X,X,X,X,-,-,2,2,2,2,2,NA,X,X
+,Oxymycterus nasutus,,LC,MDD and IUCN,not endemic,48.67,46.74,41.81,37.88,NA,NA,NA,-,-,-,-,-,-,NA,NA,NA,NA,NA,NA,-,-
+,Oxymycterus quaestor,,LC,MDD and IUCN,not endemic,5.49,3.66,0.15,NA,NA,NA,NA,-,-,-,-,-,-,NA,NA,NA,NA,NA,NA,-,-
+,Oxymycterus rufus,,LC,MDD and IUCN,potentially endemic,71.64,62.32,83.67,71.61,NA,NA,39.75,-,-,X,-,-,-,18,13,11,14,12,NA,-,-
+,Ozotoceros bezoarticus,,NT,IUCN only,not endemic,NA,NA,7.89,06.08,NA,NA,NA,-,-,-,-,-,-,NA,NA,NA,NA,NA,NA,-,-
+,Panthera onca,,NA,MDD only,not endemic,0.9,0.72,NA,NA,NA,NA,NA,-,-,-,-,-,-,NA,NA,NA,NA,NA,NA,-,-
+,Pecari tajacu,,LC,IUCN only,not endemic,NA,NA,3.27,2.65,NA,NA,NA,-,-,-,-,-,-,NA,NA,NA,NA,NA,NA,-,-
+,Pediolagus salinicola,,NA,MDD only,not endemic,0.08,NA,NA,NA,NA,NA,NA,-,-,-,-,-,-,NA,NA,NA,NA,NA,NA,-,-
+,Philander canus,,NA,MDD only,not endemic,0.29,NA,NA,NA,NA,NA,NA,-,-,-,-,-,-,NA,NA,NA,NA,NA,NA,-,-
+,Philander frenatus,,LC,IUCN only,not endemic,NA,NA,0.26,0.18,NA,NA,NA,-,-,-,-,-,-,NA,NA,NA,NA,NA,NA,-,-
+,Philander opossum,,LC,IUCN only,not endemic,NA,NA,0.08,NA,NA,NA,NA,-,-,-,-,-,-,NA,NA,NA,NA,NA,NA,-,-
+,Philander quica,,NA,MDD only,not endemic,1.42,0.96,NA,NA,NA,NA,NA,-,-,-,-,-,-,NA,NA,NA,NA,NA,NA,-,-
+,Phylloderma stenops,,LC,MDD and IUCN,not endemic,0,NA,0,NA,NA,NA,NA,-,-,-,-,-,-,NA,NA,NA,NA,NA,NA,-,-
+,Phyllomys dasythrix,,LC,MDD and IUCN,not endemic,29.36,24.48,37.98,32.52,NA,NA,NA,-,-,-,-,-,-,NA,NA,NA,NA,NA,NA,-,-
+,Phyllomys medius,,LC,MDD and IUCN,not endemic,10.5,8.21,2.13,1.45,NA,NA,NA,-,-,-,-,-,-,NA,NA,NA,NA,NA,NA,-,-
+,Phyllomys sulinus,,DD,MDD and IUCN,not endemic,3.32,2.27,1.42,0.88,NA,NA,NA,-,-,-,-,-,-,NA,NA,NA,NA,NA,NA,-,-
+,Phyllotis bonariensis,Phyllotis bonariensis,NT,MDD and IUCN,endemic,100,100,100,99.99,NA,NA,42.69,X,X,X,X,-,-,1,1,1,1,1,NA,X,X
+,Phyllotis xanthopygus,,LC,MDD and IUCN,not endemic,01.05,0.8,0.12,0,NA,NA,NA,-,-,-,-,-,-,NA,NA,NA,NA,NA,NA,-,-
+,Platyrrhinus lineatus,,LC,MDD and IUCN,not endemic,5.98,4.73,6.42,5.23,NA,NA,NA,-,-,-,-,-,-,NA,NA,NA,NA,NA,NA,-,-
+,Priodontes maximus,,VU,MDD and IUCN,not endemic,0.01,NA,0.01,NA,NA,NA,NA,-,-,-,-,-,-,NA,NA,NA,NA,NA,NA,-,-
+,Procyon cancrivorus,,NA,MDD only,not endemic,03.02,2.31,NA,NA,NA,NA,NA,-,-,-,-,-,-,NA,NA,NA,NA,NA,NA,-,-
+,Promops centralis,,LC,MDD and IUCN,not endemic,0.16,0.01,0.02,NA,NA,NA,NA,-,-,-,-,-,-,NA,NA,NA,NA,NA,NA,-,-
+,Promops nasutus,,LC,MDD and IUCN,not endemic,0.84,0.34,1.52,0.67,NA,NA,NA,-,-,-,-,-,-,NA,NA,NA,NA,NA,NA,-,-
+,Pseudoryzomys simplex,,LC,MDD and IUCN,not endemic,01.03,0.35,0.91,0.31,NA,NA,NA,-,-,-,-,-,-,NA,NA,NA,NA,NA,NA,-,-
+,Puma concolor,,LC,MDD and IUCN,not endemic,0.12,0.02,3.54,2.76,NA,NA,NA,-,-,-,-,-,-,NA,NA,NA,NA,NA,NA,-,-
+,Pygoderma bilabiatum,,LC,MDD and IUCN,not endemic,0.25,0.05,03.04,02.01,NA,NA,NA,-,-,-,-,-,-,NA,NA,NA,NA,NA,NA,-,-
+,Rattus norvegicus,,LC,IUCN only,not endemic,NA,NA,0,0,NA,NA,NA,-,-,-,-,-,-,NA,NA,NA,NA,NA,NA,-,-
+,Reithrodon auritus,,LC,MDD and IUCN,not endemic,30.81,27,31.71,27.94,NA,NA,NA,-,-,-,-,-,-,NA,NA,NA,NA,NA,NA,-,-
+,Reithrodon typicus,Reithrodon typicus,LC,MDD and IUCN,endemic,99.04,95.48,98.76,95.6,NA,NA,69.44,X,X,X,X,-,-,8,8,7,8,6,NA,X,X
+,Salinomys delicatus,,DD,MDD and IUCN,not endemic,7.88,2.19,0.98,NA,NA,NA,NA,-,-,-,-,-,-,NA,NA,NA,NA,NA,NA,-,-
+,Sapajus cay,,VU,MDD and IUCN,not endemic,0.38,0.03,0.23,0,NA,NA,NA,-,-,-,-,-,-,NA,NA,NA,NA,NA,NA,-,-
+,Sapajus nigritus,,NT,MDD and IUCN,not endemic,3.17,1.98,2.75,1.85,NA,NA,NA,-,-,-,-,-,-,NA,NA,NA,NA,NA,NA,-,-
+,Scapteromys aquaticus,,NA,MDD only,not endemic,67.35,53.32,NA,NA,NA,NA,NA,-,-,-,-,-,-,NA,NA,NA,NA,NA,NA,-,-
+,Scapteromys tumidus,,LC,MDD and IUCN,potentially endemic,100,98.91,86.42,85.18,NA,NA,72.12,X,X,X,X,-,-,13,7,7,6,8,NA,-,-
+,Sciurus aestuans,,LC,MDD and IUCN,not endemic,2.55,2.23,2.58,2.27,NA,NA,NA,-,-,-,-,-,-,NA,NA,NA,NA,NA,NA,-,-
+,Sooretamys angouya,,LC,MDD and IUCN,not endemic,05.08,3.28,9.8,6.47,NA,NA,NA,-,-,-,-,-,-,NA,NA,NA,NA,NA,NA,-,-
+,Speothos venaticus,,NT,IUCN only,not endemic,NA,NA,0.03,0,NA,NA,NA,-,-,-,-,-,-,NA,NA,NA,NA,NA,NA,-,-
+,Sturnira lilium,,LC,MDD and IUCN,not endemic,11.05,9.35,9.92,8.22,NA,NA,NA,-,-,-,-,-,-,NA,NA,NA,NA,NA,NA,-,-
+,Sylvilagus brasiliensis,,NA,MDD only,not endemic,0.9,0.37,NA,NA,NA,NA,NA,-,-,-,-,-,-,NA,NA,NA,NA,NA,NA,-,-
+,Tadarida brasiliensis,,LC,MDD and IUCN,not endemic,8.11,7.1,8.64,7.56,NA,NA,NA,-,-,-,-,-,-,NA,NA,NA,NA,NA,NA,-,-
+,Tamandua tetradactyla,,LC,MDD and IUCN,not endemic,2.74,2.16,2.42,1.98,NA,NA,NA,-,-,-,-,-,-,NA,NA,NA,NA,NA,NA,-,-
+,Tapirus terrestris,,NA,MDD only,not endemic,0.1,NA,NA,NA,NA,NA,NA,-,-,-,-,-,-,NA,NA,NA,NA,NA,NA,-,-
+,Tayassu pecari,,VU,IUCN only,not endemic,NA,NA,2.44,4.58,NA,NA,NA,-,-,-,-,-,-,NA,NA,NA,NA,NA,NA,-,-
+,Thaptomys nigrita,,LC,MDD and IUCN,not endemic,2.5,1.48,7.94,5.44,NA,NA,NA,-,-,-,-,-,-,NA,NA,NA,NA,NA,NA,-,-
+,Thrichomys fosteri,,NA,MDD only,not endemic,0.04,NA,NA,NA,NA,NA,NA,-,-,-,-,-,-,NA,NA,NA,NA,NA,NA,-,-
+,Thrichomys pachyurus,,NA,MDD only,not endemic,0,0,NA,NA,NA,NA,NA,-,-,-,-,-,-,NA,NA,NA,NA,NA,NA,-,-
+"nominal name for Thylamys pusillus (Desmarest, 1804)",Thylamys citellus,,LC,MDD and IUCN,potentially endemic**,96.63,87.3,94.53,83.52,NA,NA,72.21,X,X,X,X,-,-,14,14,12,14,12,NA,X,X
+"nominal name for Thylamys pallidior (O. Thomas, 1902)",Thylamys fenestrae,,NT,IUCN only,potentially endemic,NA,NA,95.14,73.98,NA,NA,NA,-,-,X,-,-,-,9,8,8,NA,8,NA,X,X
+,Thylamys macrurus,,NT,MDD and IUCN,not endemic,0.31,NA,0.1,NA,NA,NA,NA,-,-,-,-,-,-,NA,NA,NA,NA,NA,NA,-,-
+,Thylamys pallidior,,LC,MDD and IUCN,not endemic,11.67,7.64,11.57,7.14,NA,NA,NA,-,-,-,-,-,-,NA,NA,NA,NA,NA,NA,-,-
+,Thylamys pulchellus,,LC,MDD and IUCN,not endemic,03.04,1.64,5.64,3.36,NA,NA,NA,-,-,-,-,-,-,NA,NA,NA,NA,NA,NA,-,-
+,Thylamys pusillus,,LC,MDD and IUCN,not endemic,1.57,NA,01.03,NA,NA,NA,NA,-,-,-,-,-,-,NA,NA,NA,NA,NA,NA,-,-
+,Tolypeutes matacus,,NT,MDD and IUCN,not endemic,8.3,5.77,7.75,5.27,NA,NA,NA,-,-,-,-,-,-,NA,NA,NA,NA,NA,NA,-,-
+,Tonatia bidens,,DD,MDD and IUCN,not endemic,0.28,NA,0.34,NA,NA,NA,NA,-,-,-,-,-,-,NA,NA,NA,NA,NA,NA,-,-
+,Trachops cirrhosus,,LC,MDD and IUCN,not endemic,0,NA,0.01,NA,NA,NA,NA,-,-,-,-,-,-,NA,NA,NA,NA,NA,NA,-,-
+,Tympanoctomys barrerae,,NT,MDD and IUCN,not endemic,15.68,7.47,14.73,7.72,NA,NA,NA,-,-,-,-,-,-,NA,NA,NA,NA,NA,NA,-,-
+,Vampyressa pusilla,,DD,MDD and IUCN,not endemic,3.9,2.6,3.13,02.09,NA,NA,NA,-,-,-,-,-,-,NA,NA,NA,NA,NA,NA,-,-
+"Excluded due main presence in forest canopies, São Paulo, Paraná Atlantic Forest",Wilfredomys oenax,,EN,MDD and IUCN,potentially endemic**,81.63,77.98,67.01,63.92,NA,NA,28.77,X,-,-,-,-,-,10,8,8,8,9,NA,X,X
+,Zaedyus pichiy,,NT,MDD and IUCN,not endemic,18.35,13.18,15.46,10.51,NA,NA,NA,-,-,-,-,-,-,NA,NA,NA,NA,NA,NA,-,-
